@@ -2,6 +2,7 @@
 This project establishes a resilient, ISO-aligned governance and compliance framework to strengthen CyberInfiniti Ltd’s enterprise security posture and regulatory readiness.
 It involves the design and implementation of an ISO/IEC 27002:2022-aligned enterprise information security governance and compliance framework, built on structured policy development, risk-based controls, and measurable compliance monitoring. The initiative ensures resilience, accountability, and continuous improvement, while positioning CyberInfiniti Ltd for regulatory compliance and certification readiness.
 
+---
 # Project Overview
 This project establishes a resilient, ISO/IEC 27002:2022-aligned governance and compliance framework to strengthen Cyberinfiniti Ltd’s enterprise security posture and regulatory readiness.
 Through a comprehensive Governance, Risk, and Compliance (GRC) initiative, Cyberinfiniti Ltd transitioned from an informal, ad-hoc security structure into a structured, policy-driven, and measurable compliance ecosystem. The framework is aligned with:
